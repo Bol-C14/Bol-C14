@@ -1,11 +1,9 @@
 <!-- Profile header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shu+Gu+%F0%9F%91%8B;EDA+%C3%97+AI+for+Analog+%26+Mixed-Signal;Building+LLM-powered+EDA+toolchains" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&center=true&vCenter=true&width=650&lines=Hi%2C+welcome+%F0%9F%91%8B;EDA+%C3%97+AI+for+Analog+%26+Mixed-Signal;Building+LLM-powered+EDA+toolchains" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shu-gu-9655531b9">LinkedIn</a> ·
-  <a href="mailto:S.Gu-10@sms.ed.ac.uk">Email</a> ·
   <a href="https://github.com/Bol-C14?tab=repositories">Projects</a>
 </p>
 
@@ -81,7 +79,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Bol-C14&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=transparent" 
-    alt="Shu's GitHub stats" 
+    alt="GitHub stats" 
   />
 </p>
 
@@ -111,7 +109,5 @@
 
 ### 📫 Reach me
 
-- 💼 LinkedIn: [Shu Gu](https://www.linkedin.com/in/shu-gu-9655531b9)  
-- ✉️ Email: [S.Gu-10@sms.ed.ac.uk](mailto:S.Gu-10@sms.ed.ac.uk)  
 
 > If you’re working on AI-assisted EDA, analog/mixed-signal flows, or teaching tools with LLMs, feel free to reach out 👋
